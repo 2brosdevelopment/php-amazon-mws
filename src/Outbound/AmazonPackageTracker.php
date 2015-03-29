@@ -1,4 +1,4 @@
-<?php namespace CPIGroup\Outbound;
+<?php namespace TwoBrosDev\Outbound;
     /**
      * Copyright 2013 CPI Group, LLC
      *

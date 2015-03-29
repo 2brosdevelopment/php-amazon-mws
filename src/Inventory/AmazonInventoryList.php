@@ -1,4 +1,4 @@
-<?php namespace CPIGroup\Inventory;
+<?php namespace TwoBrosDev\Inventory;
 /**
  * Copyright 2013 CPI Group, LLC
  *

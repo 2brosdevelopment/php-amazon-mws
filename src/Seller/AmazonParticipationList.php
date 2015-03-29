@@ -1,4 +1,4 @@
-<?php namespace CPIGroup\Seller;
+<?php namespace TwoBrosDev\Seller;
 
     /**
      * Copyright 2013 CPI Group, LLC

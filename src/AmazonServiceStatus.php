@@ -1,4 +1,4 @@
-<?php namespace CPIGroup;
+<?php namespace TwoBrosDev;
     /**
      * Copyright 2013 CPI Group, LLC
      *

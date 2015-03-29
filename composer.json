@@ -17,8 +17,8 @@
   },
   "autoload": {
     "psr-4": {
-      "2BrosDev\\": "src/",
-      "2BrosDevTest\\": "test/"
+      "TwoBrosDev\\": "src/",
+      "TwoBrosDevTest\\": "test/"
     }
   }
 }
