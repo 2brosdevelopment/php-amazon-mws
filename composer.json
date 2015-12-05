@@ -1,12 +1,22 @@
 {
   "name": "two-bros/php-amazon-mws",
   "type": "library",
-  "description": "An open-source library to connect to Amazon's MWS web services in an object-oriented manner, with a focus on intuitive usage.",
+  "description": "An open-source library to connect to Amazon's MWS web services in an object-oriented manner, with a focus on intuitive usage. Forked from CPIGroup/phpAmazonMWS to add namespacing and cleanup for further development.",
   "license": "Apache-2.0",
   "keywords": [
     "API",
     "Amazon",
     "PHP"
+  ],
+  "authors": [
+    {
+      "name": "Vincent Sposato",
+      "email": "vsposato@sposatoenterprises.com"
+    },
+    {
+      "name": "John Sposato",
+      "email": "jsposato@sposatoenterprises.com"
+    }
   ],
   "require": {
     "php": "~5.4",
