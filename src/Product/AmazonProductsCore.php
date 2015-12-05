@@ -1,4 +1,4 @@
-<?php namespace TwoBrosDev\Product;
+<?php namespace TwoBros\Product;
     /**
      * Copyright 2013 CPI Group, LLC
      *
@@ -15,7 +15,7 @@
      * See the License for the specific language governing permissions and
      * limitations under the License.
      */
-    use TwoBrosDev\AmazonCore;
+    use TwoBros\AmazonCore;
 
     /**
      * Core class for Amazon Products API.
