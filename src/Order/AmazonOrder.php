@@ -1,4 +1,4 @@
-<?php namespace TwoBrosDev\Order;
+<?php namespace TwoBros\Order;
 /**
  * Copyright 2013 CPI Group, LLC
  *
